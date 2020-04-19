@@ -1,1 +1,2 @@
 wiringpi
+git+https://github.com/pololu/drv8835-motor-driver-rpi
