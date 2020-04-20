@@ -4,7 +4,7 @@ Face tracking and robot following application using a webcam attached to the [Zu
 on a Raspberry Pi.
 
 ## Installation
-You should install all Python dependencies by running the following command first.  
+You should install all Python dependencies by running the following command: 
 ```
 sudo pip3 install -r requirements.txt
 ```
